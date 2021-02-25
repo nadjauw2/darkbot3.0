@@ -1,9 +1,9 @@
 /*
- * Classname             (darkbot3.0)
+ * Classname             ( /nadson )
  *
- * Version information   (3.0)
+ * Version information   (3.1)
  *
  * Date                  (06/12,15:35)
  *
- * author                (Dark YT)
+ * author                (nadson)
  * Copyright notice      (bot com suporte a Android/Java)
