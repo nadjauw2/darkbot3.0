@@ -2,10 +2,10 @@ const //database
 	return `
 ╔══✪〘 INFO 〙✪══
 ║
-╠➥ 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓
-╠➥ *3.0*
-╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗𝐷𝐴𝑅𝐾⃖  ☔
-╠➥ *wa.me/+5522996215481*
+╠➥ /𝚗𝚊𝚍𝚜𝚘𝚗 𝐁𝐎𝐓
+╠➥ *3.1*
+╠➥ 𝐃𝐎𝐍𝐎:  ⃬⃗/𝚗𝚊𝚍𝚜𝚘𝚗  ☔
+╠➥ *wa.me/+5591920006516*
 ╠➥ 𝐒𝐓𝐀𝐓𝐔𝐒: ON
 ║
 ╠══✪〘 NOVIDADES 〙✪══
@@ -73,8 +73,8 @@ const //database
 ║
 ╠══✪〘 IMAGENS 〙✪══
 ║
-║54 *${prefix}loli* [off]
-║55 *${prefix}loli1*
+║54 desativado!
+║55 desativado!
 ║56 *${prefix}hentai*
 ║57 *${prefix}dono*
 ║58 *${prefix}porno*
@@ -175,16 +175,16 @@ const //database
 ║
 ╠══✪〘 𝗗𝗢𝗡𝗢 〙✪══
 ║
-║ *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
-║ *INSTA: th.darkys*
-║ *WPP: wa.me/+5521997123716*
-║ *YOUTUBE: https://bit.ly/3qAjeNz*
+║ *NOME: nadson  ☔*
+║ *INSTA: nad_tasty*
+║ *WPP: wa.me/+5591920006516*
+║ *YOUTUBE: *
+            https://youtube.com/channel/UCCXejpzuZt-nKQlwyZg17HA
+║  *"BOT CRIADO POR /𝚗𝚊𝚍𝚜𝚘𝚗*
+║  *"o Nadson ama a Thais♡"*
 ║
-║  *"Peita ou respeita 🐊🚩*
-║  *"kibadores, vão se fuder"*
 ║
-║
-╚═〘 𝐃𝐀𝐑𝐊 𝐁𝐎𝐓 〙`
+╚═〘 /𝚗𝚊𝚍𝚜𝚘𝚗 𝐁𝐎𝐓 〙`
 }
 
 //Online.database
